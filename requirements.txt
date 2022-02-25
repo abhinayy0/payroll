@@ -1,2 +1,5 @@
 django==3.2
 djangorestframework
+mysql-client
+python-dotenv
+pymysql

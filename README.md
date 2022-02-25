@@ -65,7 +65,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/abhinayy0/payroll.git
    ```
-2. Install NPM packages
+2. Install requirements
    ```sh
    pip install -r requirements.txt
    ```
